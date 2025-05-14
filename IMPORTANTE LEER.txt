@@ -1,0 +1,16 @@
+Para que el sistema funcione, se recominda instalar:
+pip install opencv-python
+pip install pillow
+pip install numpy
+
+de forma que: 
+
+opencv-python>=4.5.0
+pillow>=8.0.0
+numpy>=1.19.0
+
+Este sistema funciona con cámaras SIMULADAS, mas addelante se cambiara esto
+Ejecute main.py para ver la interfaz :)
+by: 
+Martínez Cortés José Antonio
+Pérez Aranda Daniela Lisset
